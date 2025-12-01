@@ -2,7 +2,7 @@
 
 - 💻 Presently I am studying to become a 💪🏻 full-stack web developer 💪🏻 at ADA TECH SCHOOL - Paris campus (promotion 2025 Frances Spence)
 
--  I got my Web Developer certification (titre RNCP: Développeur Intégrateur Web) in 2024 and then wished to learn more and grow 🌱
+-  I got my Web Developer certification (titre RNCP niveau 5: Développeur Intégrateur Web) in 2024 and then wished to learn more and grow 🌱
 - ✏️ I’m mostly interested in tech, web development, web design, drawing and art
 
 # Contact
