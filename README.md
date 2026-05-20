@@ -1,15 +1,26 @@
-# 👋 Hi, I’m Eva T.
+# 🇫🇷 👋 Bonjour, moi c'est Eva
 
-- 💻 Presently I am studying to become a 💪🏻 full-stack web developer 💪🏻 at ADA TECH SCHOOL - Paris campus (promotion 2025 Frances Spence)
+  🎓 Développeuse web full-stack en reconversion professionnelle 💪🏻, je suis étudiante à ADA TECH SCHOOL - Paris.<br>
+  💻 Je recherche une alternance de 12 à 24 mois.<br>
 
--  I got my Web Developer certification (titre RNCP niveau 5: Développeur Intégrateur Web) in 2024 and then wished to learn more and grow 🌱
-- ✏️ I’m mostly interested in tech, web development, web design, drawing and art
+## Contact
+- 📫 Vous pouvez me contacter via mon profil LinkedIn :<br>
+  www.linkedin.com/in/eva-tharrats<br>
 
-# Contact
-- 📫 Feel free to reach out through my LinkedIn profile:
-  www.linkedin.com/in/eva-tharrats
+## 🙏 Merci pour votre visite
 
-## Thank you for your visit
+<br><br>
+
+# 🇬🇧 👋 Hi, I’m Eva
+
+   🎓 Presently I am undergoing a career change 💪🏻 and studying to become a full-stack web developer at ADA TECH SCHOOL - Paris campus<br>
+   💻 I am looking for an apprenticeship of 12 to 24 months.<br>
+
+## Contact
+- 📫 Feel free to reach out through my LinkedIn profile:<br>
+  www.linkedin.com/in/eva-tharrats<br>
+
+## 🙏Thank you for your visit
 
 <!---
 EvaTP/EvaTP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
