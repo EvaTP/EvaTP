@@ -19,6 +19,7 @@
 ## Contact
 - 📫 Feel free to reach out through my LinkedIn profile:<br>
   www.linkedin.com/in/eva-tharrats<br>
+  <br><br>
 
 ## 🙏Thank you for your visit
 
