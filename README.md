@@ -1,7 +1,7 @@
 # 🇫🇷 👋 Bonjour, moi c'est Eva
 
-  🎓 Développeuse web full-stack en reconversion professionnelle 💪🏻, je suis étudiante à ADA TECH SCHOOL - Paris.<br>
-  💻 Je recherche une alternance de 12 à 36 mois.<br>
+  🎓 Développeuse web full-stack en reconversion professionnelle 💪🏻, je suis étudiante à l'ENI École Informatique.<br>
+  💻 Je recherche un stage de 2 mois en développement web en janvier 2027.<br>
 
 ## Contact
 - 📫 Vous pouvez me contacter via mon profil LinkedIn :<br>
@@ -14,8 +14,8 @@
 
 # 🇬🇧 👋 Hi, I’m Eva
 
-   🎓 Presently I am undergoing a career change 💪🏻 and studying to become a full-stack web developer at ADA TECH SCHOOL - Paris campus<br>
-   💻 I am looking for an apprenticeship of 12 and up to 36 months.<br>
+   🎓 Presently I am undergoing a career change 💪🏻 and studying to become a full-stack web developer at ENI École Informatique<br>
+   💻 I am looking for a 2-months internship in Web Development in January 2027.<br>
 
 ## Contact
 - 📫 Feel free to reach out through my LinkedIn profile:<br>
